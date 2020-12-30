@@ -1,2 +1,2 @@
-# c25-inheritance
-inheritance
+# p5.play-boilerplate
+Boiler plate for p5.play
